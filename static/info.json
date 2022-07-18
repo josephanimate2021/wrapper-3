@@ -14,6 +14,13 @@
 			"statusCode": 302,
 			"content": ""
 		},
+		"/business/videoplans": {
+			"headers": {
+				"Location": "https://github.com/josephanimate2021/wrapper-3-installer"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
 		"/goapi/getAssetTags": {
 			"headers": {
 				"Content-Type": "application/json"
